@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<dict>
+		<key>com.fitnesslabs.roomy.500</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<string>500</string>
+			<key>ConsumableId</key>
+			<string>500</string>
+		</dict>
+		<key>com.fitnesslabs.roomy.1200</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<string>1200</string>
+			<key>ConsumableId</key>
+			<string>1200</string>
+		</dict>
+		<key>com.fitnesslabs.roomy.2500</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<string>2500</string>
+			<key>ConsumableId</key>
+			<string>2500</string>
+		</dict>
+		<key>com.fitnesslabs.roomy.6500</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<string>6500</string>
+			<key>ConsumableId</key>
+			<string>6500</string>
+		</dict>
+		<key>com.fitnesslabs.roomy.14000</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<string>14000</string>
+			<key>ConsumableId</key>
+			<string>14000</string>
+		</dict>
+		<key>com.fitnesslabs.roomy.33000</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<string>33000</string>
+			<key>ConsumableId</key>
+			<string>33000</string>
+		</dict>
+	</dict>
+	<key>Others</key>
+	<array/>
+	<key>SharedSecret</key>
+	<string>698c405da87b4e37babbe22dc8cd94c9</string>
+</dict>
+</plist>
